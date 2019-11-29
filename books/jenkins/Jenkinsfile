@@ -10,8 +10,8 @@ pipeline {
     }
 
     environment {
-        DEV_PROJECT = "youruser-books-dev"
-        STAGE_PROJECT = "youruser-books-stage"
+        DEV_PROJECT = "swapnil-kulkarni-persistent--simple-dev"
+        STAGE_PROJECT = "swapnil-kulkarni-persistent--simple-stage"
         APP_GIT_URL = "https://github.com/coolsvap/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ocp-ap1.prod.nextcle.com/repository/nodejs"
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
